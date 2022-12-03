@@ -31,7 +31,7 @@
   <div align="center">
     <h2>🛠️ Linguagens, Ferramentas e Bibliotecas que eu já trabalho:</h2>
     <!-- NextJs -->
-    <a href="https://nextjs.org/">
+    <a href="https://nextjs.org/" style="text-decoration: none;">
     <img
       align="center"
       src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png"
@@ -41,102 +41,126 @@
     >
     </a>
     <!-- react -->
-    <img
-      align="center"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-      width="3%"
-      height="auto"
-      alt="DevSobrinho-React"
-    >
+    <a href="https://reactjs.org/" style="text-decoration: none;">
+      <img
+        align="center"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        width="3%"
+        height="auto"
+        alt="DevSobrinho-React"
+      >
+    </a>
     <!-- NestJs -->
-    <img
-      align="center"
-      src="https://user-images.githubusercontent.com/13108166/32161516-25ee8a3c-bd56-11e7-9d49-76faed577e1a.png"
-      width="3%"
-      height="auto"
-      alt="DevSobrinho-Node"
-    >
+    <a href="https://nestjs.com/" style="text-decoration: none;">
+      <img
+        align="center"
+        src="https://user-images.githubusercontent.com/13108166/32161516-25ee8a3c-bd56-11e7-9d49-76faed577e1a.png"
+        width="3%"
+        height="auto"
+        alt="DevSobrinho-Node"
+      >
+    </a>  
     <!-- node -->
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"
-      width="3%"
-      height="auto"
-      alt="DevSobrinho-Node"
-    >
+    <a href="https://nodejs.org/pt-br/" style="text-decoration: none;">
+      <img
+        align="center"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"
+        width="3%"
+        height="auto"
+        alt="DevSobrinho-Node"
+      >
+    </a>
     <!-- mysql -->
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg"
-      width="3%"
-      height="auto"
-      alt="DevSobrinho-Mysql"
-    >
+    <a href="https://www.mysql.com/" style="text-decoration: none;">
+      <img
+        align="center"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg"
+        width="3%"
+        height="auto"
+        alt="DevSobrinho-Mysql"
+      >
+    </a>
     <!-- typescript -->
-    <img
-      align="center"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-      width="3%"
-      height="auto"
-      alt="DevSobrinho-Typescript"
-    >
+    <a href="https://www.typescriptlang.org/" style="text-decoration: none;">
+      <img
+        align="center"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+        width="3%"
+        height="auto"
+        alt="DevSobrinho-Typescript"
+      >
+    </a>
     <!-- javascript -->
-    <img
-      align="center"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-      width="3%"
-      height="auto"
-      alt="DevSobrinho-Javascript"
-    >
+    <a href="https://devdocs.io/javascript/" style="text-decoration: none;">
+      <img
+        align="center"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        width="3%"
+        height="auto"
+        alt="DevSobrinho-Javascript"
+      >
+    </a>
     <!-- html 5 -->
-    <img
-      align="center"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-      width="3%"
-      height="auto"
-      alt="DevSobrinho-Html5"
-    >
+    <a href="https://devdocs.io/html/" style="text-decoration: none;">
+      <img
+        align="center"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        width="3%"
+        height="auto"
+        alt="DevSobrinho-Html5"
+      >
+    </a>
     <!-- css 3 -->
-    <img
-      align="center"
-      align="center"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-      width="3%"
-      height="auto"
-      alt="DevSobrinho-Css3"
-    >
+    <a href="https://devdocs.io/css/" style="text-decoration: none;">
+      <img
+        align="center"
+        align="center"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        width="3%"
+        height="auto"
+        alt="DevSobrinho-Css3"
+      >
+    </a>
     <!-- sass -->
-    <img
-      align="center"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
-      width="3%"
-      height="auto"
-      alt="DevSobrinho-Sass"
-    >
+    <a href="https://devdocs.io/sass/" style="text-decoration: none;">
+      <img
+        align="center"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+        width="3%"
+        height="auto"
+        alt="DevSobrinho-Sass"
+      >
+    </a>
     <!-- git -->
-    <img
-      align="center"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-      width="3%"
-      height="auto"
-      alt="DevSobrinho-Git"
-    >
+    <a href="https://git-scm.com/doc" style="text-decoration: none;">
+      <img
+        align="center"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        width="3%"
+        height="auto"
+        alt="DevSobrinho-Git"
+      >
+    </a>
     <!-- vscode -->
-    <img
-      align="center"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-      width="3%"
-      height="auto"
-      alt="DevSobrinho-Vscode"
-    >
+    <a href="https://code.visualstudio.com/" style="text-decoration: none;">
+      <img
+        align="center"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+        width="3%"
+        height="auto"
+        alt="DevSobrinho-Vscode"
+      >
+    </a>
     <!-- figma -->
-    <img
-      align="center"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-      width="3%"
-      height="auto"
-      alt="DevSobrinho-Figma"
-    >
+    <a href="https://www.figma.com/" style="text-decoration: none;">
+      <img
+        align="center"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+        width="3%"
+        height="auto"
+        alt="DevSobrinho-Figma"
+      >
+    </a>
   </div>
 </div>
 
