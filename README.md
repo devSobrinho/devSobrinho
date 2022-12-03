@@ -23,14 +23,22 @@
     <li>🚀 Atualmente trabalhando com ReactJS, NextJS, NodeJS e NestJS.</li>
     <li>🌱 Em paralelo estou aprendendo React Native.</li>
     <li>
-      💬 Sou ativo nas comunidades de tecnologia do Discord, tanto ensinando e
-      aprendendo!
+      💬 Sou ativo nas comunidades de tecnologia do Discord ensinando/aprendendo!
     </li>
     <li>✨ Eu gosto de games, séries, gatos e chuva...</li>
   </ul>
 
   <div align="center">
     <h2>🛠️ Linguagens, Ferramentas e Bibliotecas que eu já trabalho:</h2>
+    <!-- NextJs -->
+    [Hover me](https://example.com "I'm a tooltip!")
+    <img
+      align="center"
+      src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png"
+      width="3%"
+      height="auto"
+      alt="DevSobrinho-React"
+    >
     <!-- react -->
     <img
       align="center"
@@ -38,6 +46,14 @@
       width="3%"
       height="auto"
       alt="DevSobrinho-React"
+    >
+    <!-- NestJs -->
+    <img
+      align="center"
+      src="https://user-images.githubusercontent.com/13108166/32161516-25ee8a3c-bd56-11e7-9d49-76faed577e1a.png"
+      width="3%"
+      height="auto"
+      alt="DevSobrinho-Node"
     >
     <!-- node -->
     <img
