@@ -28,6 +28,8 @@
     <li>✨ Eu gosto de games, séries, gatos e chuva...</li>
   </ul>
 
+  <br />
+
   <div align="center">
     <h2>🛠️ Linguagens, Ferramentas e Bibliotecas que eu já trabalho:</h2>
     <!-- NextJs -->
