@@ -2,7 +2,8 @@
   <h1>
     👋 Olá, eu me chamo Daniel!
 
-    <img
+  </h1>
+   <img
       align="right"
       alt="devSobrinhoWithCat-icon"
       height="150"
@@ -16,8 +17,6 @@
       style="border-radius: 50px"
       src="https://i.ibb.co/SBvd30g/bibi.jpg"
     >
-
-  </h1>
 
   <ul style="list-style-type: none; margin: 0">
     <li>💼 Atualmente trabalhando com Full Stack!</li>
