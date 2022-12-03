@@ -31,6 +31,7 @@
   <div align="center">
     <h2>🛠️ Linguagens, Ferramentas e Bibliotecas que eu já trabalho:</h2>
     <!-- NextJs -->
+    <a href="https://nextjs.org/">
     <img
       align="center"
       src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png"
@@ -38,6 +39,7 @@
       height="auto"
       alt="DevSobrinho-React"
     >
+    </a>
     <!-- react -->
     <img
       align="center"
