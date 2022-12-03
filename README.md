@@ -31,7 +31,6 @@
   <div align="center">
     <h2>🛠️ Linguagens, Ferramentas e Bibliotecas que eu já trabalho:</h2>
     <!-- NextJs -->
-    [Hover me](https://example.com "I'm a tooltip!")
     <img
       align="center"
       src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png"
