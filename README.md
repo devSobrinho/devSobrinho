@@ -20,7 +20,7 @@
 
   <ul style="list-style-type: none; margin: 0">
     <li>💼 Atualmente trabalhando com Full Stack!</li>
-    <li>🚀 Atualmente trabalhando com ReactJS, NextJS, NodeJS e NestJS.</li>
+    <li>🚀 ReactJS, NextJS, NodeJS e NestJS.</li>
     <li>🌱 Em paralelo estou aprendendo React Native.</li>
     <li>
       💬 Sou ativo nas comunidades de tecnologia do Discord ensinando/aprendendo!
