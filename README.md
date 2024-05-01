@@ -76,7 +76,7 @@
     <a href="https://www.mysql.com/" style="text-decoration: none;">
       <img
         align="center"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
         width="3%"
         height="auto"
         alt="DevSobrinho-Mysql"
