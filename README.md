@@ -20,8 +20,8 @@
 
   <ul style="list-style-type: none; margin: 0">
     <li>💼 Atualmente trabalhando com Full Stack!</li>
-    <li>🚀 ReactJS, NextJS, NodeJS e NestJS.</li>
-    <li>🌱 Em paralelo estou aprendendo React Native.</li>
+    <li>🚀 ReactJS, NextJS, React Native, NodeJS e NestJS.</li>
+    <li>🌱 Em paralelo estou aprendendo GoLang.</li>
     <li>
       💬 Sou ativo nas comunidades de tecnologia do Discord ensinando/aprendendo!
     </li>
@@ -80,6 +80,16 @@
         width="3%"
         height="auto"
         alt="DevSobrinho-Mysql"
+      >
+    </a>
+    <!-- go -->
+    <a href="https://www.typescriptlang.org/" style="text-decoration: none;">
+      <img
+        align="center"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"
+        width="3%"
+        height="auto"
+        alt="DevSobrinho-Go"
       >
     </a>
     <!-- typescript -->
